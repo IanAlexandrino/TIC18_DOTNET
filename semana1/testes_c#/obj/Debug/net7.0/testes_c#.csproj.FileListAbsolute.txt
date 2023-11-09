@@ -1,0 +1,15 @@
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.csproj.AssemblyReference.cache
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.AssemblyInfoInputs.cache
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.AssemblyInfo.cs
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.csproj.CoreCompileInputs.cache
+/home/ian-rodrigues-alexandrino/testes_c#/bin/Debug/net7.0/testes_c#
+/home/ian-rodrigues-alexandrino/testes_c#/bin/Debug/net7.0/testes_c#.deps.json
+/home/ian-rodrigues-alexandrino/testes_c#/bin/Debug/net7.0/testes_c#.runtimeconfig.json
+/home/ian-rodrigues-alexandrino/testes_c#/bin/Debug/net7.0/testes_c#.dll
+/home/ian-rodrigues-alexandrino/testes_c#/bin/Debug/net7.0/testes_c#.pdb
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.dll
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/refint/testes_c#.dll
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.pdb
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/testes_c#.genruntimeconfig.cache
+/home/ian-rodrigues-alexandrino/testes_c#/obj/Debug/net7.0/ref/testes_c#.dll

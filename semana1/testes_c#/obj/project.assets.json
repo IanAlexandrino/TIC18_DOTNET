@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/home/ian-rodrigues-alexandrino/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/testes_c#.csproj",
+      "projectName": "testes_c#",
+      "projectPath": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/testes_c#.csproj",
+      "packagesPath": "/home/ian-rodrigues-alexandrino/.nuget/packages/",
+      "outputPath": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ian-rodrigues-alexandrino/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
