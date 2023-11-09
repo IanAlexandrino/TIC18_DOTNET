@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/testes_c#.csproj": {}
+    "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/aula_09_11_23/testes_c#.csproj": {}
   },
   "projects": {
-    "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/testes_c#.csproj": {
+    "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/aula_09_11_23/testes_c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/testes_c#.csproj",
+        "projectUniqueName": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/aula_09_11_23/testes_c#.csproj",
         "projectName": "testes_c#",
-        "projectPath": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/testes_c#.csproj",
+        "projectPath": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/aula_09_11_23/testes_c#.csproj",
         "packagesPath": "/home/ian-rodrigues-alexandrino/.nuget/packages/",
-        "outputPath": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/testes_c#/obj/",
+        "outputPath": "/home/ian-rodrigues-alexandrino/TIC18_DOTNET/semana1/aula_09_11_23/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ian-rodrigues-alexandrino/.nuget/NuGet/NuGet.Config"
