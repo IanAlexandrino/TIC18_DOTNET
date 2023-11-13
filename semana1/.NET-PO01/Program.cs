@@ -134,6 +134,8 @@ Console.WriteLine(exInt4);
 
 #endregion
 
+// ==================================================================================================================================
+
 #region 4. Operadores Aritméticos:
 
 int x = 10;
@@ -157,6 +159,8 @@ Console.WriteLine(x / y);
 
 #endregion
 
+// ==================================================================================================================================
+
 #region 5. Operadores de Comparação:
 
 int a = 5;
@@ -167,6 +171,8 @@ string resultado5 = a > b ? "a é maior que b" : "a não é maior que b";
 Console.WriteLine(resultado5);
 
 #endregion
+
+// ==================================================================================================================================
 
 #region 6. Operadores de Igualdade:
 
@@ -179,6 +185,8 @@ Console.WriteLine(resultado6);
 
 #endregion
 
+// ==================================================================================================================================
+
 #region 7. Operadores Lógicos:
 
 bool condicao1 = true;
@@ -189,6 +197,8 @@ string resultado7 = condicao1 && condicao2 == true ? "condicao1 e condicao2 são
 Console.WriteLine(resultado7);
 
 #endregion
+
+// ==================================================================================================================================
 
 #region 8. Desafio de Mistura de Operadores:
 
