@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using System;
+using _Colecoes;
+public class MainProgram{
+    static void Main() {
+        Colecao colecoes = new();
+
+        colecoes.AddCliente();
+    }
+}

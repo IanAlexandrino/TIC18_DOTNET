@@ -1,13 +1,12 @@
-namespace Colecoes;
+namespace _Colecoes;
 
-using Advogado;
-using Cliente;
+using _Advogado;
+using _Cliente;
 
 public class Colecao {
     public List<Advogado> advogados = new();
     public List<Cliente> clientes = new();
 
-    
 
     public void AddAdvogado(){
         var tuplaAdvogado = (Nome: "Ian", DataNasc: new DateTime(1987,07,23), 
@@ -19,6 +18,7 @@ public class Colecao {
             tuplaAdvogado.CNA
         );
         advogados.Add(novoAdvogado);
+        var advogado = advogados.Select(advogado => advogado.Nome );
     }
 
     public void AddCliente(){
@@ -32,7 +32,8 @@ public class Colecao {
             tuplaCliente.Profissao
         );
         clientes.Add(novoCliente);
-        var cliente = clientes.Select(x => new { x.Nome,});
+        var cliente = clientes.Select(cliente => cliente.Nome );
+        Console.WriteLine(cliente);
     }
 
 
