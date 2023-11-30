@@ -1,0 +1,15 @@
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/bin/Debug/net7.0/NET-PO02
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/bin/Debug/net7.0/NET-PO02.deps.json
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/bin/Debug/net7.0/NET-PO02.runtimeconfig.json
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/bin/Debug/net7.0/NET-PO02.dll
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/bin/Debug/net7.0/NET-PO02.pdb
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.csproj.AssemblyReference.cache
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.AssemblyInfoInputs.cache
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.AssemblyInfo.cs
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.csproj.CoreCompileInputs.cache
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.dll
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/refint/NET-PO02.dll
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.pdb
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/NET-PO02.genruntimeconfig.cache
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/Debug/net7.0/ref/NET-PO02.dll

@@ -1,0 +1,5 @@
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/obj/Debug/net7.0/Prova_individual.csproj.AssemblyReference.cache
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/obj/Debug/net7.0/Prova_individual.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/obj/Debug/net7.0/Prova_individual.AssemblyInfoInputs.cache
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/obj/Debug/net7.0/Prova_individual.AssemblyInfo.cs
+/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/obj/Debug/net7.0/Prova_individual.csproj.CoreCompileInputs.cache
