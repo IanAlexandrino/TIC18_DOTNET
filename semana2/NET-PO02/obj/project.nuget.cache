@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1y2KpZ69gWkzsINUIR1lZ3zy+TBuMJigKVbxpsNhBDdMUSKVhnM6FvZe437aV4G068HlTOswtlSIOJ+yZyEfxA==",
+  "dgSpecHash": "1qwliuqZWqIR6I6uyvh+N1wfUwmKnZqHKi+DMe7Yp3fbM9XdukcBt7CQ3wTnBL2qe9K9dij8D5rFzytHd1+HDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana2\\NET-PO02\\NET-PO02.csproj",
+  "projectFilePath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

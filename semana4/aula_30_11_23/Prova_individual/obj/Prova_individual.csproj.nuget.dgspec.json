@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj": {}
+    "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/Prova_individual.csproj": {}
   },
   "projects": {
-    "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj": {
+    "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/Prova_individual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj",
-        "projectName": "NET-PO02",
-        "projectPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj",
+        "projectUniqueName": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/Prova_individual.csproj",
+        "projectName": "Prova_individual",
+        "projectPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/Prova_individual.csproj",
         "packagesPath": "/home/ian-rodrigues-alexandrino/.nuget/packages/",
-        "outputPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/",
+        "outputPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana4/aula_30_11_23/Prova_individual/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ian-rodrigues-alexandrino/.nuget/NuGet/NuGet.Config"
