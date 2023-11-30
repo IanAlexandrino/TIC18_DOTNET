@@ -8,6 +8,6 @@ public abstract class Pessoa {
     public Pessoa (string? _nome, DateTime _dataNasc, string? _cpf) {
         Nome = _nome;
         DataNasc = _dataNasc;
-        CPF = _cpf
+        CPF = _cpf;
     }
 }
