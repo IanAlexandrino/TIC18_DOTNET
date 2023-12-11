@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/ian-rodrigues-alexandrino/.nuget/packages/": {}
+    "C:\\Users\\Ian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana1/aula_09_11_23/testes_c#.csproj",
+      "projectUniqueName": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\aula_09_11_23\\testes_c#.csproj",
       "projectName": "testes_c#",
-      "projectPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana1/aula_09_11_23/testes_c#.csproj",
-      "packagesPath": "/home/ian-rodrigues-alexandrino/.nuget/packages/",
-      "outputPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana1/aula_09_11_23/obj/",
+      "projectPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\aula_09_11_23\\testes_c#.csproj",
+      "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\aula_09_11_23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ian-rodrigues-alexandrino/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

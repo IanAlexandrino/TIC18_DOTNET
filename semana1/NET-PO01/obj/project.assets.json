@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\.NET-PO01\\.NET-PO01.csproj",
+      "projectUniqueName": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\NET-PO01\\.NET-PO01.csproj",
       "projectName": ".NET-PO01",
-      "projectPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\.NET-PO01\\.NET-PO01.csproj",
+      "projectPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\NET-PO01\\.NET-PO01.csproj",
       "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\.NET-PO01\\obj\\",
+      "outputPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana1\\NET-PO01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config"

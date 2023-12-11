@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj": {}
+    "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana2\\NET-PO02\\NET-PO02.csproj": {}
   },
   "projects": {
-    "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj": {
+    "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana2\\NET-PO02\\NET-PO02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj",
+        "projectUniqueName": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana2\\NET-PO02\\NET-PO02.csproj",
         "projectName": "NET-PO02",
-        "projectPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/NET-PO02.csproj",
-        "packagesPath": "/home/ian-rodrigues-alexandrino/.nuget/packages/",
-        "outputPath": "/home/ian-rodrigues-alexandrino/Documentos/TIC18_DOTNET/semana2/NET-PO02/obj/",
+        "projectPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana2\\NET-PO02\\NET-PO02.csproj",
+        "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ian\\Documents\\PROJETOS\\TIC18_DOTNET\\semana2\\NET-PO02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ian-rodrigues-alexandrino/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
